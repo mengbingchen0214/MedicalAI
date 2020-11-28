@@ -1,2 +1,2 @@
-# MedicialAI
+# MedicalAI
 AI in healthcare
